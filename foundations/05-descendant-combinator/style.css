@@ -1,0 +1,24 @@
+/* Using just class types */
+/* .container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* Using class and type */
+/* way 1 */
+/* .container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* way 2 */
+div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
